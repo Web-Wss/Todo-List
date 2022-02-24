@@ -14,7 +14,7 @@ npm run serve
 
 # 项目运行截图：
 
-![image-20220224190431871](C:\Users\admin\Desktop\todo-list\image-20220224190431871.png)
+![image-20220224190431871](https://github.com/Chcj-Wei/Todo-List/blob/master/image-20220224190431871.png)
 
 # 项目说明：
 
